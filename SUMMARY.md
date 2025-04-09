@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-  * [Plan your integration](overview/plan-your-integration.md)
-  * [How terminal works](overview/how-terminal-works.md)
+* [Plan your integration](plan-your-integration.md)
+* [How terminal works](how-terminal-works.md)
 
 ## Integration
 
